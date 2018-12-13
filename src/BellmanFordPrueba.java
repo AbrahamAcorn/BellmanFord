@@ -1,6 +1,9 @@
 
 import java.io.IOException;
 
+/*  TOMADO DE: * Sitio web:
+ *  http://jorgep.blogspot.com/2010/10/ruta-mas-corta-solucion-por-el.html
+*/
 public class BellmanFordPrueba {
 
 	public static void main(String[] args) {
